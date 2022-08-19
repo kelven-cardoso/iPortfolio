@@ -29,8 +29,8 @@
     'host' => 'ssl://smtp.gmail.com',
     'port' => '465',
     'auth' => true,
-    'username' => 'kelvenecn1@meta.edu.br',
-    'password' => 'Eng.kcmc',
+    'username' => '',
+    'password' => '',
     
     
   );
